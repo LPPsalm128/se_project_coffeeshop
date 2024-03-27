@@ -29,6 +29,6 @@
 }
 
 .card__list-divider {
-  flex-grow: 10px;
+  flex-grow: 2;
   border-bottom: 1px solid black;
 }
