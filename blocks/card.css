@@ -12,8 +12,7 @@
   margin: 0 0 32px;
 }
 
-.card__list-item {
-  display: flex;
+.card__list {
   padding: 0;
   list-style-type: none;
   margin-bottom: 16px;
@@ -24,11 +23,15 @@
   line-height: 20px;
 }
 
+.card__list-item {
+  display: flex;
+}
+
 .card__list-item:last-child {
   margin-bottom: 0;
 }
 
 .card__list-divider {
-  flex-grow: 2;
   border-bottom: 1px solid black;
+  flex-grow: 1;
 }
