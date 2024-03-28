@@ -29,7 +29,7 @@
   font-size: 44px;
   line-height: 52px;
   font-weight: 500;
-  z-index: 3;
+  z-index: 2;
   max-width: 251px;
   position: relative;
 }
@@ -51,7 +51,6 @@
 
 .about__paragraph:last-of-type {
   margin-bottom: 0;
-  z-index: 2;
 }
 
 .about__circle {
@@ -62,11 +61,10 @@
   position: absolute;
   top: -152px;
   left: -129px;
-  z-index: 2;
+  z-index: 1;
 }
 
 .about__circle_animation_blurred {
-  z-index: 1;
   animation-name: pulsate;
   animation-duration: 1.3s;
   animation-timing-function: ease-in-out;
