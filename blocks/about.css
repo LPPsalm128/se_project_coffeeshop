@@ -24,7 +24,7 @@
 
 .about__title {
   margin: 0;
-  font-family: "Inter", Arial, Verdana;
+  font-family: "Inter", Arial, Verdana, sans-serif;
   font-style: normal;
   font-size: 44px;
   line-height: 52px;
@@ -36,7 +36,7 @@
 
 .about__content {
   padding: 19px 0 73px 0;
-  font-family: "Noto Serif", Arial, Verdana;
+  font-family: "Noto serif", "Times New Roman", Times, serif;
   font-style: normal;
   font-size: 20px;
   line-height: 30px;

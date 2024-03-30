@@ -8,7 +8,7 @@
 
 .menu__title {
   max-width: 780px;
-  font-family: "Inter", Arial, Verdana;
+  font-family: "Inter", Arial, Verdana, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -19,7 +19,7 @@
 }
 
 .menu__subtitle {
-  font-family: "Noto Serif", Arial, Verdana;
+  font-family: "Noto Serif", 'Times New Roman', Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

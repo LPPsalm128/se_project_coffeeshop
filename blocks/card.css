@@ -4,7 +4,7 @@
 }
 
 .card__title {
-  font-family: "Inter", Arial, Verdana;
+  font-family: "Inter", Arial, Verdana, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -16,7 +16,7 @@
   padding: 0;
   list-style-type: none;
 
-  font-family: "Noto Serif", Arial, Verdana;
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;

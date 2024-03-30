@@ -11,7 +11,7 @@
 .form__label {
   display: block;
   margin-bottom: 32px;
-  font-family: "Inter", Arial, Verdana;
+  font-family: "Inter", Arial, Verdana, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -36,7 +36,7 @@
 }
 
 .form__input::placeholder {
-  font-family: "Inter", Arial, Verdana;
+  font-family: "Inter", Arial, Verdana, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -52,7 +52,7 @@
   border: 0 solid #838383;
   margin-bottom: 32px;
   height: 60px;
-  font-family: "Inter", Arial, Verdana;
+  font-family: "Inter", Arial, Verdana, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
