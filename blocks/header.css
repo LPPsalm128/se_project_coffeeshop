@@ -15,7 +15,7 @@
 .header__title {
   z-index: 1;
   max-width: 729px;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", Arial, Verdana;
   font-style: normal;
   font-weight: 500;
   font-size: 60px;
@@ -26,7 +26,7 @@
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif", Arial, sans-serif;
+  font-family: "Noto Serif", Arial, Verdana;
   font-style: italic;
   font-weight: normal;
   color: #2f80ed;
@@ -34,12 +34,13 @@
 
 .header__description {
   max-width: 683px;
-  font-family: "Noto Serif", Arial, sans-serif;
+  font-family: "Noto Serif", Arial, Verdana;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
+  z-index: 1;
 }
 
 .header__image {
@@ -52,7 +53,7 @@
 }
 
 .header__footer {
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", Arial, Verdana;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;

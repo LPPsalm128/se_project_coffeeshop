@@ -11,7 +11,7 @@
 .form__label {
   display: block;
   margin-bottom: 32px;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", Arial, Verdana;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -25,16 +25,6 @@
   margin-bottom: 0;
 }
 
-.form__input_datetime-local {
-  padding-left: 12px;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 20px;
-  line-height: 30px;
-  color: #000000;
-}
-
 .form__input {
   display: block;
   width: 100%;
@@ -46,7 +36,7 @@
 }
 
 .form__input::placeholder {
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", Arial, Verdana;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -59,10 +49,10 @@
   width: 100%;
   padding: 0;
   border-radius: 4px;
-  border: 1px solid #838383;
+  border: 0 solid #838383;
   margin-bottom: 32px;
   height: 60px;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter", Arial, Verdana;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
